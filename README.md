@@ -11,10 +11,10 @@ Virker kun til Chrome.
 
 Installation
 
-Tryk på download knappen
-Åben Google Chrome
-Gå til udvidelser
-Aktivér “udviklertilstand” øverst i højre hjørne
-Tryk “Indlæs upakket”
-Vælg hele mappen “Rasmus_Klump&Pandekager” (Unzipped)
-Done 
+Tryk på download knappen <\n>
+Åben Google Chrome <\n>
+Gå til udvidelser <\n>
+Aktivér “udviklertilstand” øverst i højre hjørne<\n>
+Tryk “Indlæs upakket”<\n>
+Vælg hele mappen “Rasmus_Klump&Pandekager” (Unzipped)<\n>
+Done <\n>
