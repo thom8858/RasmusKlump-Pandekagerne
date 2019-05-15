@@ -7,14 +7,14 @@ Rasmus Paludan = Rasmus Klump
 
 Virker kun til Chrome.
 
-#Installering
-Download <a href="https://github.com/tykfyr/Rasmus-Pandekage/releases/tag/v1">her</a>.
 
-Gå til udvigelser.
-<p>Sæt "developer-mode" i Chrome i højre hjørne <br />
-*chrome://extensions/<br />
 
-Importér koden her ved at trykke på "Load unpacked".
+Installation
 
-</p>
-
+Tryk på download knappen
+Åben Google Chrome
+Gå til udvidelser
+Aktivér “udviklertilstand” øverst i højre hjørne
+Tryk “Indlæs upakket”
+Vælg hele mappen “Rasmus_Klump&Pandekager” (Unzipped)
+Done 
